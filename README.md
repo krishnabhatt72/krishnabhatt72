@@ -31,6 +31,32 @@ I'm a passionate Computer Science Engineering student from India who enjoys buil
 I believe in learning by building — every project is an opportunity to learn something new, improve my skills and create something useful. 🚀
 
 ---
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="tel:7017950622">
+<img src="https://img.shields.io/badge/Phone-7017950622-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
+</a>
+
+<a href="https://www.linkedin.com/in/krishna-chandra-584a86319/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://instagram.com/krishnabhatt102">
+<img src="https://img.shields.io/badge/Instagram-krishnabhatt102-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="mailto:krishnabhatt2178@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-krishnabhatt2178%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="https://github.com/krishnabhatt72">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
 
 ## 🧑‍💻 About Me
 
