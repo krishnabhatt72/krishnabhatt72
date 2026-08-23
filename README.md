@@ -150,21 +150,6 @@ A web-based college management system designed to organize and manage college-re
 
 <td width="50%" valign="top">
 
-## 📸 Pixel Point
-
-A modern wedding photography and video editing website focused on responsive design and creative presentation.
-
-### 🔧 Tech Used
-
-`HTML` `CSS` `JavaScript`
-
-<a href="https://github.com/krishnabhatt72?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00C6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
 
 ## 🚀 More Projects
 
