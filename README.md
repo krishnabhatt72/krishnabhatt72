@@ -148,7 +148,7 @@ A Wi-Fi controlled robotic car developed using **NodeMCU ESP8266, L298N motor dr
 
 `ESP8266` `Arduino` `IoT` `Blynk` `C/C++`
 
-<a href="https://github.com/krishnabhatt72?tab=repositories">
+<a href="[https://github.com/krishnabhatt72?tab=repositories](https://github.com/krishnabhatt72/IoT-Robotic-Car.git)">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-00C6FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
